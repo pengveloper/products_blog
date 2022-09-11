@@ -1,0 +1,19 @@
+title: 상품 추천 자동화 블로그
+email: jason_jang_ko@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+Webjeda Cards is a Bootstrap based jekyll theme for portfolio, photography or any kind of blog.
+
+
+baseurl: "/products_blog" # the subpath of your site, e.g. /blog
+url: "https://pengveloper.github.io" # the base hostname & protocol for your site
+
+#sidebar
+default-image: webjeda-logo-big.jpg # If there is no featured image in a post then this image will be s
+
+#footer
+
+built-by: webjeda
+
+copyright:
+name: Jason Jang
+link: 'https://pengveloper.github.io'
